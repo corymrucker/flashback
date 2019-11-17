@@ -1,1 +1,1 @@
-<?php header( 'Location: flashback/index.html' ) ;  ?>
+<?php header( 'Location: /flashback/index.html' ) ;  ?>
